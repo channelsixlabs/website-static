@@ -1,0 +1,39 @@
+.der__title {
+  display: none;
+}
+
+/* Hide title text */
+.md-ellipsis {
+  display:none;
+}
+
+/* Hide Left Sidebar */
+.md-sidebar {
+	display: none;
+}
+
+/* Hide Right Sidebar */
+.md-sidebar.md-sidebar--secondary {
+  display: none;
+}
+
+.md-sidebar__scrollwrap {
+  display:none;
+}
+
+/* Hide navigation tabs */
+.md-tabs {
+  display: none;
+}
+
+/* Hide search box */
+.md-search {
+  display: none;
+}
+
+/* Hide footer */
+.md-footer {
+  display: none;
+}
+
+

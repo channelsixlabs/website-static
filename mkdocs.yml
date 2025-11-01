@@ -1,0 +1,18 @@
+site_name: Channel Six Labs
+# nav:
+#   - Home: index.md
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: slate
+  font:
+    text: Roboto Mono
+  logo: assets/C6L_type_wide_white.png
+
+extra_css:
+  - stylesheets/extras.css
+  - stylesheets/color.css
+
+markdown_extensions:
+  - admonition
