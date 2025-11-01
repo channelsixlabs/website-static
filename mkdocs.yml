@@ -14,4 +14,11 @@ extra_css:
   - stylesheets/color.css
 
 markdown_extensions:
-  - admonition
+  - github-callouts
+
+plugins:
+  - toggle-sidebar:
+      async: False
+      enabled: True
+      theme: material
+      inline: True
