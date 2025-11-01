@@ -7,19 +7,19 @@
   display:none;
 }
 
-/* Hide Left Sidebar */
-.md-sidebar {
-	display: none;
-}
-
-/* Hide Right Sidebar */
-.md-sidebar.md-sidebar--secondary {
-  display: none;
-}
-
-.md-sidebar__scrollwrap {
-  display:none;
-}
+/* /* Hide Left Sidebar */ */
+/* .md-sidebar { */
+/* 	display: none; */
+/* } */
+/**/
+/* /* Hide Right Sidebar */ */
+/* .md-sidebar.md-sidebar--secondary { */
+/*   display: none; */
+/* } */
+/**/
+/* .md-sidebar__scrollwrap { */
+/*   display:none; */
+/* } */
 
 /* Hide navigation tabs */
 .md-tabs {

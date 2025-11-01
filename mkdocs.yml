@@ -20,5 +20,8 @@ plugins:
   - toggle-sidebar:
       async: False
       enabled: True
-      theme: material
       inline: True
+      show_navigation-by_default: False
+      show_toc_by_default: False
+      theme: material
+      # toggle_button: "navigation"
